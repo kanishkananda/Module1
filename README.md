@@ -1,5 +1,6 @@
-Name:N.Kanishka
-Register no:212225230127
+## Name:N.Kanishka
+
+## Register no:212225230127
 
 # Conditional Statements in Python: Even or Odd Checker
 
