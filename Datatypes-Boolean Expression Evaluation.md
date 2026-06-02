@@ -15,7 +15,13 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+```
+print('T')
+print('a')
+```
 
 ## Output
+<img width="1006" height="667" alt="image" src="https://github.com/user-attachments/assets/2289ae3e-cc08-4486-b3a5-e45ef7c6cdc1" />
+
 ## Result
+ Thus the program To write a Python program that prints the characters 'T' and 'a' using character literal has been executed sucessfully
