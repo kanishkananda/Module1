@@ -21,7 +21,8 @@ else:
     print("ODD")
 ```
 ## Output
-<img width="1002" height="447" alt="image" src="https://github.com/user-attachments/assets/e90f00cf-678f-4d78-8947-4a991c5f1011" />
+<img width="1242" height="632" alt="image" src="https://github.com/user-attachments/assets/59f8a136-aea9-455c-9e8f-63db686ecd49" />
+
 
 ## Result
  Thus to write a Python program to check whether the given number is even or odd using if...else statements has been executed successfully
